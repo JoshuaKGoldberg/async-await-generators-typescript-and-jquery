@@ -12,8 +12,8 @@ Stop me if you're lost.
 
 ### Table of Contents
 
-1. Generators
-2. `async`/`await`
-3. TypeScript
-4. Hacking the `__awaiter`
-5. Takeaways
+1. [Generators](./1.%20Generators.md)
+2. [`async`/`await`](./2.%20async-await.md)
+3. [TypeScript](./3.%20TypeScript.md)
+4. [Hacking the `__awaiter`](./4.%20Hacking the awaiter.md)
+5. [Takeaways](./5.%20Takeaways.md)
