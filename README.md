@@ -15,5 +15,5 @@ Stop me if you're lost.
 1. [Generators](./1.%20Generators.md)
 2. [`async`/`await`](./2.%20async-await.md)
 3. [TypeScript](./3.%20TypeScript.md)
-4. [Hacking the `__awaiter`](./4.%20Hacking the awaiter.md)
+4. [Hacking the `__awaiter`](./4.%20Hacking%20the%20awaiter.md)
 5. [Takeaways](./5.%20Takeaways.md)
