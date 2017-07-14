@@ -1,6 +1,6 @@
 # `async`/`await`, Generators, TypeScript, and jQuery
 
-A brief explaration for SeattleJS into async/await, generators, and hacking TypeScript to like jQuery's Promises.
+A brief explaration for [SeattleJS](https://github.com/seattlejs/seattlejs) into async/await, generators, and hacking TypeScript to like jQuery's Promises.
 
 ### About
 
